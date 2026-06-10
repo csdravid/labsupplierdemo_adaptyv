@@ -1,0 +1,5 @@
+date,sku,supplier,quantity,unit_cost_chf,shipping_chf,expedite_chf,total_chf,status,po_ref
+2026-05-20,S1120-3810,Starlab CH,50,136,25,150,6965,approved,PO-2026-0520-expedite
+2026-05-01,A1435101,Thermo Fisher,2,6220,25,0,12465,approved,PO-2026-0501
+2026-04-10,I6758-1G,Sigma-Aldrich,5,137,25,0,710,approved,PO-2026-0410
+2026-06-10,A1435101,Thermo Fisher,2,6220.0,25,0,12465.0,approved,PO-A1435101_20260610

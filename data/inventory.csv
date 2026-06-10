@@ -1,0 +1,15 @@
+sku,item,supplier,supplier_email,catalog_no,category,on_hand,reorder_point,reorder_qty,unit,unit_cost_chf,usage_per_week,location,storage,critical,next_run_date,last_ordered,notes
+E2621S,NEBuilder HiFi DNA Assembly Master Mix (10 rxns),BioConcept,orders@bioconcept.ch,E2621S,kit,1,3,5,pack,280,2,Freezer-2,-20C,yes,2026-06-12,2026-05-15,estimate from supplier
+C2527H,BL21(DE3) Competent E. coli (20 tubes),BioConcept,orders@bioconcept.ch,C2527H,reagent,2,3,10,pack,250,1.5,Freezer-80,-80C,no,,2026-05-20,estimate from supplier
+I6758-1G,IPTG (1g),Sigma-Aldrich,orderCH@merckgroup.com,I6758-1G,reagent,5,1,5,each,137,0.25,Fridge-1,4C,no,,2026-04-10,sourced
+A1435101,Expi293 Expression Medium (10 L),Thermo Fisher,orders.ch@thermofisher.com,A1435101,reagent,0,2,4,box,6220,1,ColdRoom-A,4C,yes,2026-06-15,2026-05-01,sourced
+88221,HisPur Ni-NTA Resin (10 mL),Thermo Fisher,orders.ch@thermofisher.com,88221,reagent,3,2,3,bottle,155,0.5,Fridge-1,4C,no,,2026-03-01,estimate from supplier
+17-0851-01,PD-10 Desalting Columns (30 pcs),Cytiva,orders.ch@thermofisher.com,17-0851-01,consumable,10,4,20,pack,453,2,Shelf-3,RT,no,,2026-05-15,sourced
+S1120-3810,TipOne Filter Tips 200ul (10x96),Starlab CH,info@starlab.ch,S1120-3810,consumable,5,15,50,pack,136,10,Shelf-1,RT,no,,2026-05-25,sourced
+SLGP033RS,Millex-GP Syringe Filter 0.22 um (50 pk),Sigma-Aldrich,orderCH@merckgroup.com,SLGP033RS,consumable,3,3,10,pack,443,2,Shelf-2,RT,no,,2026-04-12,sourced
+23225,Pierce BCA Protein Assay Kit (1 L),Thermo Fisher,orders.ch@thermofisher.com,23225,kit,2,1,2,kit,334,0.25,Fridge-2,4C,no,,2026-01-10,sourced
+655090,Greiner 96-well Microplate (100 pk),Greiner Bio-One,office.ch@gbo.com,655090,consumable,4,3,5,case,180,2,Shelf-4,RT,yes,2026-06-18,2026-05-05,estimate
+E1011-8420,200ul Graduated Filter Tip Wide Orifice (10x96),Starlab CH,info@starlab.ch,E1011-8420,consumable,5,4,10,pack,108,2,Shelf-1,RT,no,,2026-05-25,sourced
+740588.250,NucleoSpin Plasmid Miniprep Kit (250 preps),Macherey-Nagel,sales-ch@mn-net.com,740588.250,kit,2,1,4,kit,350,0.5,Shelf-Kit,RT,no,,2026-04-15,estimate from supplier
+78420,Halt Protease Inhibitor Cocktail 1mL,Thermo Fisher,orders.ch@thermofisher.com,78420,reagent,2,2,5,tube,160,0.5,Freezer-2,-20C,no,,2026-04-01,sourced
+264573,384-well Polypropylene Assay Plate (50 pk),Thermo Fisher,orders.ch@thermofisher.com,264573,consumable,4,3,10,pack,210,1,Shelf-4,RT,no,,2026-05-10,estimate
